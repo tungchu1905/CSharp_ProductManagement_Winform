@@ -1,0 +1,10 @@
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\bin\Debug\ProductManagements.exe
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\bin\Debug\ProductManagements.pdb
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\obj\Debug\ProductManagements.csprojAssemblyReference.cache
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\obj\Debug\ProductManagements.Form1.resources
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\obj\Debug\ProductManagements.Properties.Resources.resources
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\obj\Debug\ProductManagements.csproj.GenerateResource.cache
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\obj\Debug\ProductManagements.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\obj\Debug\ProductManagements.exe
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\obj\Debug\ProductManagements.pdb
+D:\C_Sharp_Winform\InClass\ProductManagements\ProductManagements\bin\Debug\ProductManagements.exe.config
