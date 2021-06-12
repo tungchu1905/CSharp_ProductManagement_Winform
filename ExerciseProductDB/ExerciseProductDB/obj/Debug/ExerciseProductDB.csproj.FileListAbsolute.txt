@@ -1,0 +1,12 @@
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\bin\Debug\ExerciseProductDB.exe.config
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\bin\Debug\ExerciseProductDB.exe
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\bin\Debug\ExerciseProductDB.pdb
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\obj\Debug\ExerciseProductDB.csprojAssemblyReference.cache
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\obj\Debug\ExerciseProductDB.FrmProduct.resources
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\obj\Debug\ExerciseProductDB.Properties.Resources.resources
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\obj\Debug\ExerciseProductDB.csproj.GenerateResource.cache
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\obj\Debug\ExerciseProductDB.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\obj\Debug\ExerciseProductDB.exe
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\obj\Debug\ExerciseProductDB.pdb
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\obj\Debug\ExerciseProductDB.FrmAddProduct.resources
+D:\C_Sharp_Winform\InClass\ExerciseProductDB\ExerciseProductDB\obj\Debug\ExerciseProductDB.FrmUpdate.resources
